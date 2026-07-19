@@ -1,0 +1,13 @@
+# 🛡 ERROR COMMUNITY | AADHAAR BOT CONFIGURATION
+
+# Telegram Bot API Token (Get it from @BotFather)
+TELEGRAM_BOT_TOKEN=8070421971:AAH_Kvy25wn1wXly6WZYFDqRyzb6mEEUjDk
+
+# Developer Telegram Username (without @)
+DEVELOPER_USERNAME=LORDVEGNENCE
+
+# Bot Administrator IDs (comma-separated if multiple)
+ADMIN_IDS=5905345933,5905345933
+
+# Mandatory Telegram Channel IDs for Join Check (comma-separated, bot must be Admin)
+REQUIRED_CHANNEL_IDS=-1003976607329,-1003976607329,-1003976607329
